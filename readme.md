@@ -31,7 +31,7 @@ const Amarjeet= {
 
 **Databases**
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">
-|--|--|--|
+|--|
 
 
 **Socials**
