@@ -5,20 +5,19 @@
 ```javascript
 const Amarjeet= {
     pronouns: "He" | "His",
-    code: ["Solidity","C++", "JavaScript", "Java","Python"],
-    askMeAbout: ["Blockchain","WebDevelopment", "CP", "Smart contract"],
+    code: ["Python","SQL", "JavaScript","Solidity"],
+    askMeAbout: ["Machine Learning","Deep Learning", "Computer Visiion", "NLP","Deployment","Blockchain"],
     technologies: {
-        frontEnd: {
-            basicTech: ["HTML","CSS","JS","ReactJs","Next.Js"]
+        MachineLearning: {
+            algorithms: ["Linear Regression","Logistic Regression","KNN","SVM","K-Mean"]
         },
-        backEnd: {
-            nodeJs: ["ExpressJS"]
+        DeepLearning: {
+            algorithms: ["ANN","CNN","RNN"]
         },
        
         databases: ["MySQL"]
     },
-    currentFocus: "Exploring the Blockchain Technology Use-cases like NFTs,DeFi,Supply-Chain Management System",
-    funFact: "There are two ways to write error-free programs,only the third one works"
+    currentFocus: "Working on Computer Vision project in medical domain",
 };
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies like Blockchain,Cloud Computing etc.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
