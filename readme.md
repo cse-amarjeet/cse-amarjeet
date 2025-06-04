@@ -1,60 +1,85 @@
-### Hi there 👋
+### 👋 Hi there! I'm Amarjeet Kumar
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+#### 🧠 Project Engineer (MLOps) @ CDAC Bangalore | M.Tech AI | Blockchain Enthusiast | Deep Learning Practitioner
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
 ```javascript
-const Amarjeet= {
-    pronouns: "He" | "His",
-    code: ["Python","SQL", "JavaScript","Solidity"],
-    askMeAbout: ["Machine Learning","Deep Learning", "Computer Visiion", "NLP","Deployment","Blockchain"],
-    technologies: {
-        MachineLearning: {
-            algorithms: ["Linear Regression","Logistic Regression","KNN","SVM","K-Mean"]
-        },
-        DeepLearning: {
-            algorithms: ["ANN","CNN","RNN"]
-        },
-       
-        databases: ["MySQL"]
-    },
-    currentFocus: "Working on Computer Vision project in medical domain",
+const Amarjeet = {
+  pronouns: "He" | "His",
+  title: "Project Engineer (MLOps)",
+  code: ["Python", "JavaScript", "Solidity", "Shell"],
+  tools: ["PyTorch", "TensorFlow", "LangChain", "Docker", "Kubernetes", "MLflow"],
+  areas: ["MLOps", "Deep Learning", "Computer Vision", "NLP", "Blockchain", "RAG Pipelines"],
+  devOps: ["CI/CD", "Prometheus", "Grafana", "AWS", "DVC", "GitHub Actions"],
+  interests: ["RAG", "Federated Learning", "AI in Healthcare", "LLM Integration"],
+  currentFocus: "Scaling AI pipelines for 3D medical imaging & RAG architectures",
 };
-```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies like Blockchain,Cloud Computing etc.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-**Programming Languages**
-
-<img title="solidity" alt="solidity" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-|--|--|--|--|
 
 
-**Databases**
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="GraphQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">
-|--|--|
+### 🛠️ Tech Stack
 
+**Languages & Frameworks** <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> | <img title="Solidity" alt="Solidity" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png"> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="Shell" alt="Shell" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/shell/shell.png">
 
-**Socials**
+**ML/DL & MLOps** <img title="PyTorch" alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"> | <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"> | <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"> | <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png">
+
+**Cloud & Monitoring** <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"> | <img title="Grafana" alt="Grafana" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/grafana/grafana.png"> | <img title="Prometheus" alt="Prometheus" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/prometheus/prometheus.png">
+
+---
+
+### 📌 Recent Highlights
+
+* 🧬 **Brain Tumor Detection**: Built full MLOps pipeline (XNAT, 3D MRI) with 98.3% accuracy
+* 🧠 **Epilepsy Detection from 3D MRI** using deep learning models
+* 🧱 **Fractional NFT Platform** for Real Estate on Ethereum
+* 🔍 **Local RAG Pipeline**: End-to-end IR + LLM system using `all-mpnet-base-v2`
+* 📈 **Sentiment Analysis Pipeline** with DVC, MLflow, AWS S3, and CI/CD
+
+---
+
+### 🏆 Achievements
+
+* 🥇 Winner @ Developer Hackathon by GCE Gaya (Team Lead)
+* 📚 Published Research in NLP & Music Recommendation
+* 👨‍🏫 Ex-Lab Instructor for AI at University of Hyderabad
+
+---
+
+### 📬 Let's Connect
+
 <p align="left">
-<a href="https://www.linkedin.com/in/useramarjeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitendra-gangwar-94353a152/" height="40" width="50" /></a>
-<a href="https://leetcode.com/cseamarjeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="50" />
-</p>
-
-
-**GitHub Stats**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-amarjeet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Jitendra Gangwar Github Stats" width="48%" align="right" >
-
-<img src="https://github-readme-stats.vercel.app/api?username=cse-amarjeet&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Jitendra Gangwar Github Streak" width="48%">
-<br/>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cse-amarjeet&theme=dark&hide_border=false" alt="Jitendra Gangwar Github Streak" >
+  <a href="mailto:amarjeetcse98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/useramarjeet/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/cseamarjeet/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=BEzJ2J0AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
 </p>
 
 ---
 
-[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=cse-amarjeet&theme=react-dark)](https://github.com/jitendragangwar123)
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cse-amarjeet&theme=dark&hide_border=false&count_private=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cse-amarjeet&theme=dark&hide_border=false&layout=compact" width="48%" />
+</p>
 
-<!-- footer image -->
-![](https://i.imgur.com/waxVImv.png)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cse-amarjeet&theme=dark&hide_border=false" />
+</p>
+
+---
+
+### 🚀 Activity Graph
+
+[![Amarjeet's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cse-amarjeet\&theme=react-dark)](https://github.com/cse-amarjeet)
+
+---
+
+<!-- Footer -->
+
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" />
+</p>
+```
+
 
